@@ -1,5 +1,5 @@
 # List of names
-names = ["Alice", "Bob", "Charlie", "David", "Eve"]
+names = ["lawrence", "Bob", "Charlie", "David", "Eve"]
 
 # Corresponding ages
 ages = [20, 16, 22, 17, 19]
